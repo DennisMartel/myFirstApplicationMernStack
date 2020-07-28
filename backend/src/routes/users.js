@@ -13,7 +13,7 @@ router.route('/')
     .get(getUsers)
     .post(createUser)
 
-//rutas para obtener un id en especifico para mostrar, actualizar o eliminar
+//rutas para obtener un id en especifico eliminar
 router.route('/:id')
     .delete(deleteUser)
 
