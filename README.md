@@ -1,2 +1,2 @@
 # primera-aplicacion-stack-MERN
-aplicacion de un simple crud usando las tecnologias del stack MERN
+aplicacion web de notas de usuarios usando las tecnologias del stack MERN
